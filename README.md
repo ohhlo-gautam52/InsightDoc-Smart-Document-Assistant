@@ -1,7 +1,7 @@
 
 
 
-# 🧠 NoteForge.ai
+# 🧠 InsightDoc: Smart Document Assistant
 
 AI-powered note-taking app that lets you capture, organize, and enhance your thoughts through intelligent suggestions. Built with modern web technologies to create a seamless, secure, and performant experience.
 
